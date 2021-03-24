@@ -27,5 +27,6 @@ dependencies:
   - pandas
   - graphviz 
   - pygobject
-  - gtk
+  - openssl 
+  - gtk3
   - graph-tool=2.27
