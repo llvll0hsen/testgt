@@ -4,6 +4,7 @@ channels:
   - conda-forge
   - ostrokach-forge
   - pkgw-forge
+  - Anaconda
 dependencies:
   - python
   - pygobject
@@ -12,6 +13,11 @@ dependencies:
   - numpy
   - scipy
   - pandas
+  - boost 
+  - expat 
+  - sparsehash 
+  - gtk3 
   - cairo>=1.14
+  - cairomm  
   - pycairo
   - graph-tool=2.27
