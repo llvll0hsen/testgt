@@ -14,4 +14,4 @@ dependencies:
   - pandas
   - cairo>=1.14
   - pycairo
-  - graph-tool
+  - graph-tool=2.27
