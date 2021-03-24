@@ -8,11 +8,10 @@ channels:
   - psi4
   - numba
 dependencies:
-  - gcc-5 
   - cgal 
   - sparsehash 
-  - python
   - boost
+  - python
   - cairo
   - libsigcpp 
   - cairomm  
