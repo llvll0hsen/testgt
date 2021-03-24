@@ -13,6 +13,7 @@ autoconf
 libtool
 libtool
 dbus 
+openssl
 libdbus-1-dev
 graphviz
 valgrind
