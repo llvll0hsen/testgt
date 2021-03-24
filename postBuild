@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo 'deb [ arch=amd64 ] https://downloads.skewed.de/apt bionic main' > /etc/apt/sources.list
+update
