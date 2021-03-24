@@ -4,19 +4,29 @@ channels:
   - conda-forge
   - ostrokach-forge
   - pkgw-forge
-  - Anaconda
+  - anaconda
+  - psi4
+  - numba
 dependencies:
+  - gcc-5 
+  - cgal 
+  - sparsehash 
   - python
-  - pygobject
+  - boost
+  - cairo
+  - libsigcpp 
+  - cairomm  
+  - expat 
+  - pycairo
+  - numba 
+  - py-boost 
   - matplotlib
   - scikit-learn
   - numpy
   - scipy
+  - setuptools 
   - pandas
-  - expat 
-  - sparsehash 
-  - gtk3 
-  - cairo>=1.14
-  - cairomm  
-  - pycairo
+  - graphviz 
+  - pygobject
+  - gtk
   - graph-tool=2.27
