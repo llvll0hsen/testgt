@@ -24,6 +24,7 @@ dependencies:
   - beautifulsoup4
   - joblib
   - geocoder
+  - backoff
   - pip:
     - powerlaw
     - python-louvain 
