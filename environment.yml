@@ -25,6 +25,7 @@ dependencies:
   - joblib
   - geocoder
   - backoff
+  - git
   - pip:
     - powerlaw
     - python-louvain 
