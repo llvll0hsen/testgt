@@ -1,2 +1,1 @@
-update
-python3-graph-tool
+libgtk-3-0
