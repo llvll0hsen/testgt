@@ -20,10 +20,10 @@ dependencies:
   - nltk
   - googlemaps
   - future
+  - statsmodels
   - pip:
     - powerlaw
     - python-louvain 
-    - pip:
     - area==1.1.1
     - bctpy==0.5.0
     - geographiclib==1.50
@@ -33,4 +33,3 @@ dependencies:
     - pip==20.3.4
     - powerlaw==1.4.6
     - ratelimit==2.2.1
-    - statsmodels==0.10.0rc2
