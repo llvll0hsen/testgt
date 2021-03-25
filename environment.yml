@@ -6,6 +6,26 @@ dependencies:
   - pandas
   - networkx=2.5
   - scikit-learn
+  - tslearn
+  - seaborn
+  - matplotlib
+  - scipy 
+  - numpy
+  - requests
+  - ratelimiter
+  - python-oauth2
+  - pymongo
+  - pycairo
+  - oauthlib
+  - nltk
+  - googlemaps
+  - future
+  - statsmodels
+  - beautifulsoup4
+  - joblib
+  - geocoder
   - pip:
     - powerlaw
     - python-louvain 
+    - pandarallel
+    - geopy
