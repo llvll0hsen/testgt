@@ -15,4 +15,4 @@ install.packages("texreg", repos = "https://cloud.r-project.org/", dependencies=
 install.packages("LMERConvenienceFunctions", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("optimx", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("sjPlot", repos = "https://cloud.r-project.org/", dependencies=TRUE)
-install.packages("ggeffects", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+#install.packages("ggeffects", repos = "https://cloud.r-project.org/", dependencies=TRUE)
