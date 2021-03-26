@@ -1,5 +1,2 @@
 libgtk-3-0
 htop
-libudunits2-0
-libudunits2-dev
-libgdal-dev
