@@ -1,6 +1,63 @@
 name: introduction_graph_tool_env
 channels:
   - conda-forge
+  - defaults
+  - r 
 dependencies:
   - graph-tool=2.37
   - pandas
+  - networkx=2.5
+  - scikit-learn
+  - tslearn
+  - seaborn
+  - matplotlib
+  - scipy 
+  - numpy
+  - requests
+  - ratelimiter
+  - python-oauth2
+  - pymongo
+  - pycairo
+  - oauthlib
+  - nltk
+  - googlemaps
+  - future
+  - statsmodels
+  - beautifulsoup4
+  - joblib
+  - geocoder
+  - backoff
+  - git 
+  - geocoder
+  - rpy2
+  - r-base=3.6
+  - r-car
+  - r-tidyverse
+  - r-data.table
+  - r-scales
+  - r-knitr
+  - r-lattice
+  - r-lme4
+  - r-magrittr
+  - r-matrix
+  - r-plyr
+  - r-xtable
+  - r-lmerTest
+  - r-arules
+  - r-ggplot2
+  - r-texreg
+  - r-LMERConvenienceFunctions
+  - r-optimx
+  - r-sjPlot
+  - r-ggeffects
+  - r-stargazer
+  - r-groupdata2
+  - r-corrplot
+  - r-MuMIn
+- pip:
+    - powerlaw
+    - python-louvain 
+    - pandarallel
+    - geopy
+    - missingno
+    - fuzzywuzzy
