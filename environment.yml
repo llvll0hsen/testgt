@@ -1,4 +1,4 @@
-name: introduction_graph_tool_env
+name: music_project_env
 channels:
   - conda-forge
   - defaults
@@ -54,7 +54,7 @@ dependencies:
   - r-groupdata2
   - r-corrplot
   - r-MuMIn
-- pip:
+  - pip:
     - powerlaw
     - python-louvain 
     - pandarallel
