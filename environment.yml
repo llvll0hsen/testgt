@@ -32,7 +32,6 @@ dependencies:
   - git 
   - geocoder
   - rpy2
-  - r-base
   - r-car
   - r-tidyverse
   - r-data.table
